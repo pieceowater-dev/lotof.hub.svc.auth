@@ -2,9 +2,8 @@
   "name": "service",
   "version": "1.0.0",
   "description": "",
-  "author": "",
-  "private": true,
-  "license": "UNLICENSED",
+  "author": "pieceowater-dev",
+  "license": "MIT",
   "scripts": {
     "update": "npx npm-check-updates -f @pieceowater-dev/lotof.lib.broadcaster -u && npm install",
     "build": "nest build",
